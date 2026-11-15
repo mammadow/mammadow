@@ -170,7 +170,7 @@
   <circle cx="36" cy="29" r="4" class="status-dot" />
   <circle cx="36" cy="29" r="7.5" fill="none" stroke="#B54A1D" stroke-width="1" stroke-opacity="0.4" />
   <text x="52" y="33" class="mono hud-label">SYS.ENG // FIRST-PRINCIPLES ARCHITECTURE</text>
-  <text x="848" y="33" text-anchor="end" class="mono hud-label">KHANKENDI · AZERBAIJAN</text>
+  <text x="848" y="33" text-anchor="end" class="mono hud-label">BAKU / KHANKENDI · AZERBAIJAN</text>
 
   <!-- Header Divider Line -->
   <line x1="28" y1="47" x2="852" y2="47" stroke="#21262D" stroke-width="1" />
