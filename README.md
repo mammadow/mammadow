@@ -41,7 +41,7 @@ Algorithms & Core CS  :: Competitive programming (ICPC), graph theory, dynamic p
 ### Selected Competitions & Recognition
 
 * **TEKNOFEST (NSosyal İnovasyon Yarışması)** — 3rd Place (*Team Chevir — ChevirApp*)
-* **Holberton Kaggle ML3 Competitions** — 1st Place (*HLBT Housing Prices* &amp; *HLBN Plants*) &middot; Top 2 (*HLBT TED*)
+* **Holberton Kaggle ML3 Competitions** — **1st Place** (*HLBN Plants* `1/18`: `0.9565` private / `0.9947` public F1 via 5-fold EfficientNetV2-S + 3&times;TTA; *HLBT Housing Prices*: stacked CatBoost/LightGBM/XGBoost + linear ensemble) &middot; **Top 2 / 46** (*HLBT TED*, `0.03570` MSLE via LightGBM/TabPFN calibration)
 * **Turkic World UAV Competition** — 3rd Place (*Gebze Technical University · Organization of Turkic States*)
 * **2025 ICPC Northern Eurasia Finals** — Honorable Mention (*Team QU 1*)
 * **VIII Republic Robot Olympiad (WRO Future Engineers)** — 3rd Place ([NEDrobotics](https://github.com/NEDrobotics/WRO2025-NED) — *cross-disciplinary engineering: software, hardware, mechanics &amp; electronics*)
