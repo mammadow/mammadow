@@ -34,12 +34,13 @@ Algorithms & Core CS  :: Competitive programming (ICPC), graph theory, dynamic p
 
 * **HAL Team Lead & Systems Software Engineer** at **AZEROS** — Leading Hardware Abstraction Layer (HAL) architecture, systems software, and embedded integration.
 * **Machine Learning Engineer** at **Chevir** ([ChevirApp](https://github.com/Chevir-App-Development-Team/chevir-app-vers-1.0)) — Built the real-time Azerbaijani Sign Language recognition and translation pipeline (depthwise Conv1D + ECA + Transformer ONNX inference, 43.9 GB AzSLD corpus).
-* **Education & Research** — B.Sc. Computer Engineering at **Qarabağ University** (3rd year, Fall-3 GPA: 97.40/100) &middot; Machine Learning Track at **Holberton School** (100% Scholarship) &middot; Published research on sequence modeling (*A Comparative Analysis of LSTM and Transformers for Sign Language Recognition*) and AI-era software engineering (*Transformation of Programming in the Age of AI*).
+* **Education & Research** — B.Sc. Computer Engineering at **Qarabağ University** (3rd year, Fall-3 GPA: 97.40/100) &middot; Machine Learning Graduate (**High Honour Diploma · 99%**, Nov 2026) at **Holberton School Azerbaijan** (100% Scholarship) &middot; Published research on sequence modeling (*A Comparative Analysis of LSTM and Transformers for Sign Language Recognition*) and AI-era software engineering (*Transformation of Programming in the Age of AI*).
 
 ---
 
 ### Selected Competitions & Recognition
 
+* **Holberton School Azerbaijan (Machine Learning)** — **High Honour Diploma** (*99% Overall Performance*, Nov 2026 &middot; 100% Scholarship)
 * **TEKNOFEST (NSosyal İnovasyon Yarışması)** — 3rd Place (*Team Chevir — ChevirApp*)
 * **Holberton Kaggle ML3 Competitions** — **1st Place** (*HLBN Plants* `1/18`: `0.9565` private / `0.9947` public F1 via 5-fold EfficientNetV2-S + 3&times;TTA; *HLBT Housing Prices*: stacked CatBoost/LightGBM/XGBoost + linear ensemble) &middot; **Top 2 / 46** (*HLBT TED*, `0.03570` MSLE via LightGBM/TabPFN calibration)
 * **Turkic World UAV Competition** — 3rd Place (*Gebze Technical University · Organization of Turkic States*)
